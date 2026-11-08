@@ -1,0 +1,140 @@
+11�� 08, 2026 12:01:59 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 7673473
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+11�� 08, 2026 12:01:59 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15136219
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+11�� 08, 2026 12:01:59 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15414151
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+11�� 08, 2026 12:02:00 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 7672804
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+11�� 08, 2026 12:02:00 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15135550
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+11�� 08, 2026 12:02:00 ���� com.jpexs.decompiler.flash.SWFInputStream resolveTag
+����: Error during tag reading. SWF: _ ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15413482
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTagList(SWFInputStream.java:1505)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2489)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2427)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2349)
+	at com.jpexs.decompiler.flash.SWF.<init>(SWF.java:2111)
+	at ComparePhysics.main(ComparePhysics.java:2)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:484)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:208)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:135)
+
+Changed method index 79
+Changed method index 80
+Changed method index 89
+Changed method index 95
+Changed method index 107
+Changed method index 1442
+Changed method index 1522
+Same=2165 Changed=7

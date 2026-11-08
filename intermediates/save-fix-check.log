@@ -1,0 +1,57 @@
+JPEXS Free Flash Decompiler v.26.4.0
+------------------------------------
+Nov 08, 2026 10:02:00 AM com.jpexs.decompiler.flash.SWFInputStream resolveTag
+SEVERE: Error during tag reading. SWF: save-fixed.swf ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 7672804
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1452)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1391)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 08, 2026 10:02:00 AM com.jpexs.decompiler.flash.SWFInputStream resolveTag
+SEVERE: Error during tag reading. SWF: save-fixed.swf ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15135550
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1452)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1391)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 08, 2026 10:02:00 AM com.jpexs.decompiler.flash.SWFInputStream resolveTag
+SEVERE: Error during tag reading. SWF: save-fixed.swf ID: 11 name: Unresolved (tcl: DefineText, tid: 11) pos: 15413482
+com.jpexs.decompiler.flash.EndOfStreamException: Premature end of the stream reached
+	at com.jpexs.decompiler.flash.SWFInputStream.readNoBitReset(SWFInputStream.java:622)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUBInternal(SWFInputStream.java:1259)
+	at com.jpexs.decompiler.flash.SWFInputStream.readUB(SWFInputStream.java:1241)
+	at com.jpexs.decompiler.flash.SWFInputStream.readTEXTRECORD(SWFInputStream.java:3353)
+	at com.jpexs.decompiler.flash.tags.base.StaticTextTag.readData(StaticTextTag.java:125)
+	at com.jpexs.decompiler.flash.tags.DefineTextTag.<init>(DefineTextTag.java:77)
+	at com.jpexs.decompiler.flash.SWFInputStream.resolveTag(SWFInputStream.java:1621)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1452)
+	at com.jpexs.decompiler.flash.SWFInputStream$TagResolutionTask.call(SWFInputStream.java:1391)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Exporting scripts...
+Exported script 1/1 Game, 00:00.646
+Export finished. Total export time: 00:02.910
+OK

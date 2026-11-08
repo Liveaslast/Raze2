@@ -1,0 +1,269 @@
+2026-11-08T15:00:49.445728Z  WARN fontdb: Failed to load a font face 0 from 'C:\WINDOWS\Fonts\mstmc.ttf' cause malformed font.
+2026-11-08T15:00:50.003679Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:50.256056Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:50.264100Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:50.665891Z  WARN egui_wgpu::renderer: Detected a linear (sRGBA aware) framebuffer Bgra8UnormSrgb. egui prefers Rgba8Unorm or Bgra8Unorm
+2026-11-08T15:00:50.688928Z  WARN ruffle_desktop::gui::controller: Failed to register [Name("Noto Sans CJK"), Name("Source Han Sans"), Name("WenQuanYi Zen Hei"), Name("Arial Unicode MS")] as Proportional: no unicode fonts found!
+2026-11-08T15:00:50.721646Z  WARN ruffle_desktop::gui::controller: Failed to register [Name("Noto Sans Hebrew")] as Proportional: no unicode fonts found!
+2026-11-08T15:00:50.721693Z  WARN ruffle_desktop::gui::controller: Failed to register [Name("Noto Sans Arabic")] as Proportional: no unicode fonts found!
+2026-11-08T15:00:50.884780Z  WARN ruffle_frontend_utils::write: missing or invalid 'recent' array, recreating..
+2026-11-08T15:00:51.286009Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:51.356904Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:51.377879Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:00:51.497905Z  WARN ruffle_core::stub: Encountered stub: AVM2 flash.system.Security.allowDomain()
+2026-11-08T15:00:51.497952Z  WARN ruffle_core::stub: Encountered stub: AVM2 flash.system.Security.allowInsecureDomain()
+2026-11-08T15:00:51.497956Z  WARN ruffle_core::stub: Encountered stub: AVM2 flash.system.Security.loadPolicyFile()
+2026-11-08T15:00:51.498435Z  WARN ruffle_frontend_utils::backends::storage: Unable to read file "localhost/Agent_Work/Raze/Raze2-Chinese/game/raze2-local-v2.swf/playtomic": Os { code: 2, kind: NotFound, message: "系统找不到指定的文件。" }
+2026-11-08T15:00:51.636665Z  WARN ruffle_core::library: Unknown device font "QTypeSquare-Book_12pt_st" (bold: true, italic: false)
+2026-11-08T15:00:51.640673Z  WARN ruffle_core::library: Unknown device font "QTypeSquare-Book_11pt_st" (bold: true, italic: false)
+2026-11-08T15:00:51.640766Z  WARN ruffle_core::library: Unknown device font "QTypeSquare-Book_11pt_st" (bold: false, italic: false)
+2026-11-08T15:00:51.681102Z  WARN ruffle_core::library: Unknown device font "QTypeSquare-Bold_22pt_st" (bold: false, italic: false)
+2026-11-08T15:00:51.681351Z  WARN ruffle_core::library: Unknown device font "BlairMdITC TT" (bold: false, italic: false)
+2026-11-08T15:00:51.702217Z ERROR ruffle_core::tag_utils: Error running definition tag: DefineText, got Couldn't read SWF: failed to fill whole buffer
+2026-11-08T15:00:51.702271Z  WARN ruffle_core::display_object::movie_clip: Tried to apply CSMTextSettings to unregistered character ID 693
+2026-11-08T15:00:51.951325Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Suicides&level=%u6740%u654C&day=0&month=0&year=0&0.3647399190813303": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951643Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Secrets&day=0&month=0&year=0&0.24401316698640585": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951709Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/gamevars/load.aspx?swfid=2349&0.8803923833183944": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951758Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=MauserKills&level=%u6740%u654C&day=0&month=0&year=0&0.8053310629911721": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951798Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=MineKills&level=%u6740%u654C&day=0&month=0&year=0&0.8316527213901281": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951825Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=HeadShots&level=%u6740%u654C&day=0&month=0&year=0&0.5205947947688401": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951851Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=CorpseSticks&level=%u6740%u654C&day=0&month=0&year=0&0.48239554185420275": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951874Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Campaign_Won&day=0&month=0&year=0&0.1862232298590243": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951896Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Campaign_Lost&day=0&month=0&year=0&0.32727285008877516": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951917Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=ButtShots&level=%u6740%u654C&day=0&month=0&year=0&0.6215193122625351": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951941Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=FlagCaps&level=%u6740%u654C&day=0&month=0&year=0&0.03664588602259755": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951965Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=QuickMatch_Lost&day=0&month=0&year=0&0.4024127130396664": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.951986Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=FireKills&level=%u6740%u654C&day=0&month=0&year=0&0.0521299890242517": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952009Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Human&level=%u6740%u654C&day=0&month=0&year=0&0.12152689648792148": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952030Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Campaign_Played&day=0&month=0&year=0&0.9802220216952264": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952051Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=%u6210%u5C31%1F%1F%1F%1F%1F%1F&day=0&month=0&year=0&0.6676942352205515": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952073Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/tracker/q.aspx?swfid=2349&q=v/1&url=http%3A//local-testing/&0.14998072339221835z": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952126Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Zombie&level=%u6740%u654C&day=0&month=0&year=0&0.5045359847135842": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952148Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Robot&level=%u6740%u654C&day=0&month=0&year=0&0.4833257128484547": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952169Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Betrayals&level=%u6740%u654C&day=0&month=0&year=0&0.24130060756579041": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952190Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Alien&level=%u6740%u654C&day=0&month=0&year=0&0.5508406762965024": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952210Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/Views.aspx?swfid=2349&day=0&month=0&year=0&0.459735244512558": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952268Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=RadKills&level=%u6740%u654C&day=0&month=0&year=0&0.033510425593703985": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952307Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=SpeedKills&level=%u6740%u654C&day=0&month=0&year=0&0.3303701286204159": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952366Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=JuiceKills&level=%u6740%u654C&day=0&month=0&year=0&0.27645642776042223": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952397Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=QuickMatch_Won&day=0&month=0&year=0&0.739796785172075": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952422Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Campaign_Human&day=0&month=0&year=0&0.604695753660053": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952443Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=Campaign_Alien&day=0&month=0&year=0&0.4832553849555552": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:51.952465Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=DomCaps&level=%u6740%u654C&day=0&month=0&year=0&0.3024300611577928": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.041820Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=CrotchShots&level=%u6740%u654C&day=0&month=0&year=0&0.6970906113274395": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.041921Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=SwordKills&level=%u6740%u654C&day=0&month=0&year=0&0.5197239685803652": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.041954Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=KillSteals&level=%u6740%u654C&day=0&month=0&year=0&0.2529569095931947": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.041981Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=JugKills&level=%u6740%u654C&day=0&month=0&year=0&0.11467397818341851": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.042004Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=%u5236%u4F5C%1F&level=%u6740%u654C&day=0&month=0&year=0&0.6481977580115199": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.086398Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Bullets&level=%u6740%u654C&day=0&month=0&year=0&0.4694378552958369": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.175286Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/levelmetricAverage.aspx?swfid=2349&metric=Reflections&level=%u6740%u654C&day=0&month=0&year=0&0.5800203531980515": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.181664Z  WARN ruffle_core::library: Unknown device font "Microsoft Yahei" (bold: true, italic: false)
+2026-11-08T15:00:52.323586Z  WARN ruffle_core::library: Unknown device font "QTypeSquare-Book_22pt_st" (bold: false, italic: false)
+2026-11-08T15:00:52.330820Z  WARN ruffle_core::library: Unknown device font "Verdana_11pt_st" (bold: false, italic: false)
+2026-11-08T15:00:52.376778Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=QuickMatch_Played&day=0&month=0&year=0&0.5299141085706651": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:00:52.424086Z ERROR ruffle_core::tag_utils: Error running definition tag: DefineText, got Couldn't read SWF: failed to fill whole buffer
+2026-11-08T15:00:52.424111Z  WARN ruffle_core::display_object::movie_clip: Tried to apply CSMTextSettings to unregistered character ID 2033
+2026-11-08T15:00:52.450036Z ERROR ruffle_core::tag_utils: Error running definition tag: DefineText, got Couldn't read SWF: failed to fill whole buffer
+2026-11-08T15:00:52.450060Z  WARN ruffle_core::display_object::movie_clip: Tried to apply CSMTextSettings to unregistered character ID 2093
+2026-11-08T15:00:52.829576Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/data/custommetric.aspx?swfid=2349&metric=RageQuits&day=0&month=0&year=0&0.6991571872495115": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:03:57.640509Z  WARN ruffle_core::stub: Encountered stub: AVM2 flash.display.MovieClip.goto() with SWF 9 movie
+2026-11-08T15:04:00.715374Z  WARN ruffle_core::stub: Encountered stub: AVM2 flash.net.SharedObject.close()
+2026-11-08T15:04:08.812462Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:04:08.828161Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:04:20.265963Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseUp", class: flash.events::MouseEvent, ptr: 0x2b60d61e7e0 } to handler FunctionObject { ptr: 0x2b5c9e12250, name: "Main/MouseUp()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Game/MouseUp()
+	at Main/MouseUp()
+2026-11-08T15:04:20.269617Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "enterFrame", class: flash.events::Event, ptr: 0x2b60d620680 } to handler FunctionObject { ptr: 0x2b5c9e12520, name: "Main/EnterFrame()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at \x08/startWaveAtPos()
+	at 	/EnterFrame()
+	at Game/EnterFrame()
+	at Main/EnterFrame()
+2026-11-08T15:05:25.413104Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:25.413129Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 4 bytes
+2026-11-08T15:05:25.413263Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:26.279555Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:26.279577Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 4 bytes
+2026-11-08T15:05:26.279791Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:26.288510Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:28.813021Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:28.846533Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.312789Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.314471Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.314724Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.314732Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 4 bytes
+2026-11-08T15:05:29.315037Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.315478Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:29.327743Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:36.213048Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:36.346185Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:36.946164Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:37.312780Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:37.512849Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:37.746239Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:37.946142Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:38.712864Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:38.946423Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:39.213070Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:39.412946Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:39.679553Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:39.979471Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:57.079699Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:57.312884Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:57.579635Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:57.579657Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 2 bytes
+2026-11-08T15:05:58.246167Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:58.246194Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 2 bytes
+2026-11-08T15:05:58.846795Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:05:58.846830Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 2 bytes
+2026-11-08T15:05:59.080458Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:00.216741Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:00.849452Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:00.849477Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 2 bytes
+2026-11-08T15:06:22.374984Z  WARN wgpu_hal::vulkan::conv: Unrecognized present mode 1000361000
+2026-11-08T15:06:23.179814Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:24.446271Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:25.479569Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:27.746607Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:28.113328Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:28.346234Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:28.414092Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:28.414113Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 2 bytes
+2026-11-08T15:06:28.422086Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:29.012857Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:31.246237Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:32.413060Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:33.312856Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:06:33.883664Z ERROR ruffle_core::display_object: Got error when setting AVM2 child named "btnl_积分牌": ReferenceError: Error #1056: Cannot create property btnl_积分牌 on .
+2026-11-08T15:06:33.883697Z ERROR ruffle_core::display_object: Got error when setting AVM2 child named "btn_选项": ReferenceError: Error #1056: Cannot create property btn_选项 on .
+2026-11-08T15:06:33.883713Z ERROR ruffle_core::display_object: Got error when setting AVM2 child named "btn_退出": ReferenceError: Error #1056: Cannot create property btn_退出 on .
+2026-11-08T15:06:35.126694Z ERROR ruffle_core::display_object::container: Failed to get current value of child btnl_积分牌 (MovieClip(MovieClip { ptr: 0x2b624932be0 })) on parent obj Object(StageObject(StageObject { name: , ptr: 0x2b614e895d0 })): ReferenceError: Error #1069: Property btnl_积分牌 not found on  and there is no default value.
+	at flash.display::MovieClip/gotoAndStop()
+	at /MouseDown()
+	at Game/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:06:35.126740Z ERROR ruffle_core::display_object::container: Failed to get current value of child btn_退出 (MovieClip(MovieClip { ptr: 0x2b624933180 })) on parent obj Object(StageObject(StageObject { name: , ptr: 0x2b614e895d0 })): ReferenceError: Error #1069: Property btn_退出 not found on  and there is no default value.
+	at flash.display::MovieClip/gotoAndStop()
+	at /MouseDown()
+	at Game/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:06:35.126888Z ERROR ruffle_core::display_object: Got error when setting AVM2 child named "btn_积分牌": ReferenceError: Error #1056: Cannot create property btn_积分牌 on .
+	at flash.display::MovieClip/gotoAndStop()
+	at /MouseDown()
+	at Game/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:06:35.126909Z ERROR ruffle_core::display_object: Got error when setting AVM2 child named "btnl_退出": ReferenceError: Error #1056: Cannot create property btnl_退出 on .
+	at flash.display::MovieClip/gotoAndStop()
+	at /MouseDown()
+	at Game/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:06:36.660859Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:06:37.352053Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/tracker/q.aspx?swfid=2349&q=la/DomCaps/%u6740%u654C/0~la/FlagCaps/%u6740%u654C/0~la/Bullets/%u6740%u654C/0~la/Betrayals/%u6740%u654C/0~la/Reflections/%u6740%u654C/0~la/CrotchShots/%u6740%u654C/0~la/ButtShots/%u6740%u654C/0~la/HeadShots/%u6740%u654C/0~la/Alien/%u6740%u654C/0~la/Zombie/%u6740%u654C/0~la/Robot/%u6740%u654C/0~la/Human/%u6740%u654C/0&url=http%3A//local-testing/&0.06924931984394789z": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:06:37.367853Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/tracker/q.aspx?swfid=2349&q=la/%u5236%u4F5C%1F/%u6740%u654C/0~la/CorpseSticks/%u6740%u654C/0~la/SpeedKills/%u6740%u654C/0~la/RadKills/%u6740%u654C/0~la/JuiceKills/%u6740%u654C/0~la/KillSteals/%u6740%u654C/0~la/MineKills/%u6740%u654C/0~la/FireKills/%u6740%u654C/0~la/SwordKills/%u6740%u654C/0~la/MauserKills/%u6740%u654C/0~la/JugKills/%u6740%u654C/0&url=http%3A//local-testing/&0.47056709695607424z": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:06:38.422681Z ERROR ruffle_core::loader: Error during URLLoader load of "http://g1b2847e9ebef4d40.api.playtomic.com/tracker/q.aspx?swfid=2349&q=la/Suicides/%u6740%u654C/0~t/n/10~t/n/9~t/n/8~t/n/7~t/n/6~p/1~t/n/5~t/n/4~t/n/3~t/n/2~t/y/1&url=http%3A//local-testing/&0.4319435767829418z": HttpNotOk("Got 502 Bad Gateway", 502, false, 0)
+2026-11-08T15:09:39.159518Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:12:36.449409Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:37.582331Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:37.785251Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:37.813513Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:37.849139Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.280763Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.420279Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.453325Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.482610Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.680158Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:38.746691Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:39.200728Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:40.286410Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:41.669538Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:12:42.548707Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:42.762132Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:42.779934Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:42.814117Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.193678Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.213979Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.247885Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.616787Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.848730Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.886872Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:44.920146Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:45.152894Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:45.422303Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:46.532219Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:47.688195Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:49.166128Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:49.166253Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cb98f40 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:49.719798Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:49.719867Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cc43790 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:50.184088Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:50.184154Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cc5bcf0 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:52.928953Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:52.929019Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cdedbe0 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:53.617179Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cdd7a60 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:54.007239Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:54.007302Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cdf37c0 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:12:55.978663Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:12:55.978719Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61cc673d0 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:13:00.626931Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:05.222898Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:05.222970Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b61c41a7c0 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:13:10.193433Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:10.193511Z ERROR ruffle_core::avm2::events: Error dispatching event EventObject { type: "mouseDown", class: flash.events::MouseEvent, ptr: 0x2b60d76d320 } to handler FunctionObject { ptr: 0x2b5c9e10cc0, name: "Main/MouseDown()" } : TypeError: Error #1009: Cannot access a property or method of a null object reference.
+	at Menu/MouseDown()
+	at Main/MouseDown()
+2026-11-08T15:13:13.781010Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:13.819581Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:13.913877Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:14.169064Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:14.180187Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:14.214670Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:14.447104Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:13:14.499459Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:44.159344Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:15:52.747509Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:52.980423Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:53.088694Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:53.551950Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:53.708154Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:54.548102Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:15:55.694548Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:18:46.659246Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:21:49.159165Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 117 bytes
+2026-11-08T15:22:50.316679Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:50.714055Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:51.281272Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:51.284424Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:51.315202Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:51.683336Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:52.815311Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:53.082400Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:53.303820Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:53.895884Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:58.086795Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:58.786779Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:59.699274Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:59.714175Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:22:59.748336Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:00.508793Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:00.514223Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:00.548931Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:01.085658Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:01.448753Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:01.482052Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:03.383180Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes
+2026-11-08T15:23:03.616579Z  WARN symphonia_bundle_mp3::layer3: mpa: invalid main_data_begin, underflow by 91 bytes

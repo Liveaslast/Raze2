@@ -1,0 +1,1 @@
+Adobe download source: https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe; Authenticode Valid, Adobe Inc.; Test only. No formal launcher changed.
